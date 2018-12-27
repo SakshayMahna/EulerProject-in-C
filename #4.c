@@ -1,3 +1,5 @@
+//Simple one, just had to depend on computing power...
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
